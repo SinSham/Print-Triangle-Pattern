@@ -1,1 +1,1 @@
-# Print-Triangle-Pattern-
+# Print-Triangle-Pattern
